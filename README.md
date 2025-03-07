@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamalesh P</h1>
-<h3 align="center">A passionate Fullstack developer And Data Scientist from India</h3>
+<h3 align="center">A passionate Fullstack developer And Data analyst from India</h3>
 
 - 📫 How to reach me **kamaleshpalanisamy442@gmail.com**
 
